@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'cardinals-roost';
+  // tslint:disable-next-line:quotemark
+  title = "Cardinals' Roost";
 }
